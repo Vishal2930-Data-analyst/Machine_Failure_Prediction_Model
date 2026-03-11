@@ -62,9 +62,9 @@ This project helps industries monitor machine conditions and take preventive act
 
 - pip install -r requirements.txt
 
-## Run the Streamlit app:
+## Run the Streamlit link
 
-- streamlit run app.py
+- https://machinefailurepredictionmodel-vishalborse2930.streamlit.app/
 ## Output
 
 - The system predicts whether:
