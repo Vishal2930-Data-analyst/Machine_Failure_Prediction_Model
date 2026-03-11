@@ -64,7 +64,7 @@ This project helps industries monitor machine conditions and take preventive act
 
 ## Run the Streamlit app:
 
-## streamlit run app.py
+- streamlit run app.py
 ## Output
 
 - The system predicts whether:
