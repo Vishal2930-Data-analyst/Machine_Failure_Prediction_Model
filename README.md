@@ -52,12 +52,6 @@ This project helps industries monitor machine conditions and take preventive act
 
 - Temperature
 
-## Installation
-
-## Clone the repository:
-
-## git clone https://github.com/Vishal2930-Data-analyst/Machine-Failure-Prediction.git
-
 ## Install dependencies:
 
 - pip install -r requirements.txt
