@@ -32,8 +32,7 @@ This project helps industries monitor machine conditions and take preventive act
 - Streamlit
 
 ## Input Parameters
-
-## The model uses the following machine sensor parameters:
+ The model uses the following machine sensor parameters:
 
 - Footfall
 
@@ -57,7 +56,7 @@ This project helps industries monitor machine conditions and take preventive act
 
 ## Clone the repository:
 
-## git clone https://github.com/yourusername/Machine-Failure-Prediction.git
+## git clone https://github.com/Vishal2930-Data-analyst/Machine-Failure-Prediction.git
 
 ## Install dependencies:
 
